@@ -1,0 +1,177 @@
+/*div.field.radio, div.field.checkbox {*/
+    /*padding-left: 0;*/
+/*}*/
+
+/*= Labels =*/
+/*div.field label,*/
+/*div.field span.left {*/
+    /*display: block;*/
+    /*float: left;*/
+    /*width: 160px;*/
+    /*text-align: right;*/
+    /*min-height: 30px;*/
+    /*line-height: 30px;*/
+    /*margin-bottom: 0;*/
+/*}*/
+/*div.field label em {*/
+    /*color: #be0000;*/
+/*}*/
+
+/*= Middle column =*/
+/*form .middleColumn {*/
+    /*margin: 0 0 10px 180px;*/
+/*}*/
+/*form .confirmedpassword > .middleColumn {*/
+    /*margin-left: 0;*/
+/*}*/
+
+/*= Radio/checklists =*/
+/*.field.checkbox {*/
+    /*margin-left: 180px;*/
+/*}*/
+/*.field.checkbox label {*/
+    /*width: auto;*/
+    /*float: none;*/
+    /*text-align: left;*/
+/*}*/
+/*form .checkboxset,*/
+/*form .optionset,*/
+/*form .paymentoptionset {*/
+    /*margin: 0 0 10px;*/
+    /*list-style: none;*/
+    /*padding-left: 0;*/
+/*}*/
+/*form .checkboxset li,*/
+/*form .optionset li,*/
+/*form .paymentoptionset li {*/
+    /*margin-bottom: 5px;*/
+/*}*/
+/*form .checkboxset .middleColumn label,*/
+/*form .optionset .middleColumn label,*/
+/*form .paymentoptionset .middleColumn label {*/
+    /*display: inline;*/
+    /*float: none;*/
+    /*width: auto;*/
+    /*height: auto;*/
+    /*line-height: 20px;*/
+/*}*/
+/*form .checkboxset .middleColumn input,*/
+/*form .optionset .middleColumn input,*/
+/*form .paymentoptionset .middleColumn input {*/
+    /*margin-top: 0;*/
+/*}*/
+
+/*= Actions & buttons =*/
+/*form .Actions {*/
+    /*margin: 10px 0 20px 180px;*/
+/*}*/
+/*form .Actions input {*/
+    /*margin-bottom: 10px;*/
+/*}*/
+
+/*= Forms =*/
+
+/* login */
+/*#Remember		{ margin-left: 180px; }*/
+/*#Remember label { width: auto; }*/
+
+/* search form */
+/*#SearchForm_SearchForm {*/
+    /*margin: 10px 0;*/
+/*}*/
+
+/* job form */
+/*form .get-value {*/
+    /*width: 206px;*/
+    /*height: 30px;*/
+    /*line-height: 30px;*/
+    /*margin-bottom: 9px;*/
+    /*font-weight: bold;*/
+/*}*/
+
+/* subscribe form */
+/*.form-holder { display: none; }*/
+
+/* direction form */
+/*#directions_form { margin: 1em 0; }*/
+
+/*= Messages =*/
+/*form .middleColumn label.required {*/
+    /*float: none;*/
+    /*display: block;*/
+    /*color: #be0000;*/
+    /*min-height: 0;*/
+    /*height: auto;*/
+    /*line-height: 20px;*/
+    /*margin: -5px 0 10px 10px;*/
+    /*text-align: left;*/
+/*}*/
+/*span.message.required {*/
+    /*float: none;*/
+    /*display: block;*/
+    /*margin: -5px 10px 10px 190px;*/
+/*}*/
+
+/*form .message {*/
+    /*float: left;*/
+/*}*/
+/*form .message.required {*/
+    /*color: #be0000;*/
+/*}*/
+/*form .good {*/
+    /*background-color: #ecf9d0;*/
+    /*border-color: #8fbe00;*/
+/*}*/
+/*form .bad, form .formmessage, .message.bad {*/
+    /*color: #be0000;*/
+    /*float: none;*/
+/*}*/
+
+/*= Misc =*/
+/*form .creditCardField input,*/
+/*form input.currency {*/
+    /*padding: 5px 1%;*/
+    /*width: 50px;*/
+/*}*/
+/*form input.numeric {*/
+    /*padding: 5px 1%;*/
+    /*width: 50px;*/
+/*}*/
+/*form #DMYDate-month,*/
+/*form #DMYDate-day {*/
+    /*width: 25px*/
+/*}*/
+
+/*= Aside =*/
+/*aside form {*/
+    /*margin-bottom: 0;*/
+/*}*/
+/*aside div.field label,*/
+/*aside div.field span.left {*/
+    /*display: block;*/
+    /*float: none;*/
+    /*width: auto;*/
+    /*text-align: left;*/
+/*}*/
+/*aside form .middleColumn input.text {*/
+    /*width: 90%;*/
+/*}*/
+/*span.message.required {*/
+    /*margin: -5px 0 5px;*/
+/*}*/
+/*aside form .middleColumn,*/
+/*aside .field.checkbox,*/
+/*aside form .Actions {*/
+    /*margin: 0;*/
+/*}*/
+
+#Form_FilterForm .control-label {
+    width: auto;
+    float: none;
+    text-align: left;
+}
+#Form_FilterForm .col-lg-5 {
+    width: auto;
+    float: none;
+    text-align: left;
+}
